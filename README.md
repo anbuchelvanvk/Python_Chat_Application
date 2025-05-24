@@ -16,6 +16,7 @@ Simple Chat Server-Client using Tkinter & Sockets
 - Basic networking knowledge
 
 **Home Page :**
+
 ![image](https://github.com/user-attachments/assets/3cb004dc-0cc3-40e1-846a-5add34dc02f2)
 
   
@@ -32,6 +33,7 @@ Server :**
 - Type messages in the input field and press "Send" to communicate.
 
 **Demo :**
+
 ![image](https://github.com/user-attachments/assets/d3004e30-1e6a-40eb-8c71-e21c415cd04c)
 
 
